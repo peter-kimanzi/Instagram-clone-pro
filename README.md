@@ -110,9 +110,6 @@ Many images used in the project belong to their respective creators/authors. No 
 
 <a href="https://opencollective.com/instagram-clone-php"><img src="https://opencollective.com/instagram-clone-php/individuals.svg?width=890"></a>
 
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/instagram-clone-php/contribute)]
 
 <a href="https://opencollective.com/instagram-clone-php/organization/0/website"><img src="https://opencollective.com/instagram-clone-php/organization/0/avatar.svg"></a>
 <a href="https://opencollective.com/instagram-clone-php/organization/1/website"><img src="https://opencollective.com/instagram-clone-php/organization/1/avatar.svg"></a>
