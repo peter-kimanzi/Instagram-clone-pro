@@ -106,5 +106,3 @@ Many images used in the project belong to their respective creators/authors. No 
 ## Contributors
 
 
-#### Individuals
-
