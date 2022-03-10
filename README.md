@@ -110,9 +110,7 @@ Many images used in the project belong to their respective creators/authors. No 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/yTakkar/Instagram-clone/graphs/contributors"><img src="https://opencollective.com/instagram-clone-php/contributors.svg?width=890&button=false" /></a>
 
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/instagram-clone-php/contribute)]
+p/contribute)]
 
 #### Individuals
 
