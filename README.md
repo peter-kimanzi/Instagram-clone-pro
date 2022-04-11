@@ -66,9 +66,6 @@ eg. F1, F2, F3 and 230 others liked where F = Following.
 
 # Own the project
 
-If you're interested in watching a video on how to use or set it up, click the below image!!
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jI_z-4XWLLk/0.jpg)](https://www.youtube.com/watch?v=jI_z-4XWLLk)
 
 1. Open PHPMyAdmin, create a Database & import `instagram.sql`. 
 2. Open `config/class/needy_class.php` & fill up your PDO, Path & Gmail details.
