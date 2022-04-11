@@ -20,11 +20,6 @@ Feel free to contribute!!
 5. [Contribute](#contribute)
 6. [Images copyright claims](#copyright-claims)
 
-Here's a video which will take you on a tour of this project!!
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pwoXUIjRxfk/0.jpg)](https://www.youtube.com/watch?v=pwoXUIjRxfk)
-
-[Screenshots](https://github.com/yTakkar/Instagram-clone/tree/master/screenshots "More screenshots")
 
 # Features
 1. Login, Signup, Forgot password (with email verification).
