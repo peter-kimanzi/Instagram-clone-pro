@@ -10,7 +10,7 @@ Please note that this project is no longer maintained. Have a look at another ve
 
 **[React Version](https://github.com/yTakkar/React-Instagram-Clone-2.0)**
 
-
+Feel free to contribute!!
 
 # Quick links
 1. [Features](#features)
